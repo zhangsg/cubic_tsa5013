@@ -1,4 +1,16 @@
 #include "TCA5013.h"
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+#include <string.h>
+#include <errno.h>
+
+#include <unistd.h>
+#include <fcntl.h>
+#include <sys/stat.h>
+
+
 unsigned char TCA5013_ADDRESS   =   0x39;
 
 

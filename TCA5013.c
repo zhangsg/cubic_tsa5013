@@ -1,5 +1,5 @@
 #include "TCA5013.h"
-#include "cubic_I2C.h"
+#include "cubic_i2C.h"
 
 #define CLR_NACK NACK = 0
 #define REF_MACRO *(unsigned char*)&

@@ -11,7 +11,7 @@ enum I2C_State{
 	I2C_OPERATION_FAIL = 1
 
 };
-
+//jiang ning temp
 
 enum I2C_Bus_Speed{
 	Standard_mode = 160,

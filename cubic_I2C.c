@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+//jiang ning temp
 unsigned char NACK=0;
 i2c_t *i2c;
 const char *i2c_bus_path="/dev/i2c-4";
